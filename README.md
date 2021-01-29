@@ -7,3 +7,7 @@
 ### PRIMO ANNO
 
 - Architetture dati
+- Machine Learning
+- Modelli della concorrenza
+- Progetto e sviluppo del software
+- Teoria della computazione
