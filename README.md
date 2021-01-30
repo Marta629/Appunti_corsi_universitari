@@ -13,3 +13,7 @@
 - Modelli della concorrenza
 - Progetto e sviluppo del software
 - Teoria della computazione
+
+## Licence
+
+[Leggere licenza](https://github.com/Marta629/Appunti_corsi_universitari/blob/main/LICENSE.md)
