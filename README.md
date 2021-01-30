@@ -1,8 +1,8 @@
-# Appunti
+# Corso di Laurea Magistrale in Informatica
 
 <i>... in aggiornamento ...</i>
 
-## Corso di Laurea Magistrale in Informatica
+# Appunti
 
 ### PRIMO ANNO
 
