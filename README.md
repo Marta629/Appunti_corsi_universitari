@@ -16,4 +16,4 @@
 
 ## License
 
-[Leggere licenza](https://github.com/Marta629/Appunti_corsi_universitari/blob/main/LICENSE)
+[Leggere licenza](https://github.com/Marta629/Appunti_corsi_universitari/blob/main/LICENSE) prima di scaricare i documenti.
