@@ -2,9 +2,9 @@
 
 <b>NOTA:</b> per quanto siano stati revisionati, in questi appunti potrebbero essere presenti degli errori, sia concettuali sia grammaticali. Per chi volesse segnalare eventuali correzioni, effettuare una Pull requests.
 
-<i>... in aggiornamento ...</i>
-
 ## Appunti
+
+<i>... in aggiornamento ...</i>
 
 ### PRIMO ANNO
 
