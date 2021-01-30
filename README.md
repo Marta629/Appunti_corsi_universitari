@@ -16,6 +16,4 @@
 
 ## License
 
-Copyright (c) 2021 Marta629
-
-[Leggere licenza](https://github.com/Marta629/Appunti_corsi_universitari/blob/main/LICENSE.md)
+[Leggere licenza](https://github.com/Marta629/Appunti_corsi_universitari/blob/main/LICENSE)
