@@ -11,6 +11,7 @@
 - Architetture dati
 - Machine Learning
 - Modelli della concorrenza
+  - Seminario logiche quantistiche
 - Progetto e sviluppo del software
 - Teoria della computazione
 
