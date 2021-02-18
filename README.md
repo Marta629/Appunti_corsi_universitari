@@ -13,9 +13,9 @@
 - Progetto e sviluppo del software
 - Teoria della computazione
 
-## Digressioni
+## Extra
 
-All'interno di questi appunti ci potranno essere, nella cartella denominata **Extra** degli appunti relativi a corsi di altre facoltà o lauree. Sono sotto elencati i relativi corsi:
+Nella cartella denominata **Extra**, ci sono appunti relativi ad altri corsi di laurea o attività esterne rispetto all'università. In seguito è presente il relativo elenco:
 
 - **Master di I livello in Management per funzioni di coordinamento delle professioni sanitarie**
   - Disegno di Studio in Epidemiologia
