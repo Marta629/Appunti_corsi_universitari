@@ -4,8 +4,6 @@
 
 ## Appunti
 
-<i>... in aggiornamento ...</i>
-
 ### PRIMO ANNO
 
 - Architetture dati
