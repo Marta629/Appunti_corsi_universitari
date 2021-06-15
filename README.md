@@ -7,9 +7,10 @@
 ### PRIMO ANNO
 
 - Architetture dati
-- Machine Learning
+- Machine learning
 - Modelli della concorrenza
   - Seminario logiche quantistiche
+- Modelli probabilistici per le decisioni
 - Progetto e sviluppo del software
 - Teoria della computazione
 
