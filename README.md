@@ -12,6 +12,8 @@
   - Seminario logiche quantistiche
 - Modelli probabilistici per le decisioni
 - Progetto e sviluppo del software
+- Sistemi complessi: modelli e simulazione
+  - Progetto [AntSimulator](https://github.com/johnBuffer/AntSimulator) esteso al fenomeno della cecità delle formiche se sottoposte alle lunghezze d'onda della luce rossa (cliccare su questo [link](https://github.com/johnBuffer/AntSimulator) per visualizzare la pagina GitHub degli ideatori del codice C++ per la simulazione del comportamento delle formiche con tutte le istruzioni per l'installazione e la compilazione del codice)
 - Teoria della computazione
 
 ## Extra
